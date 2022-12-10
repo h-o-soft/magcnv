@@ -1,0 +1,2 @@
+# magcnv
+MAG image converter
